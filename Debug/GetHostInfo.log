@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  GetHostInfo.cpp
+E:\学习资料\大三下\win网络编程\GetHostInfo\GetHostInfo\GetHostInfo.cpp(24,21): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\学习资料\大三下\win网络编程\GetHostInfo\GetHostInfo\GetHostInfo.cpp(33,18): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\学习资料\大三下\win网络编程\GetHostInfo\GetHostInfo\GetHostInfo.cpp(38,22): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\学习资料\大三下\win网络编程\GetHostInfo\GetHostInfo\GetHostInfo.cpp(46,18): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+D:\visual studio\ide\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1074,5): error MSB6006: “link.exe”已退出，代码为 1104。
+LINK : fatal error LNK1104: 无法打开文件“E:\学习资料\大三下\win网络编程\GetHostInfo\Debug\GetHostInfo.exe”
